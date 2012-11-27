@@ -1,0 +1,14 @@
+Hydrogen	H	1.00794		false	1
+Helium		He	4.002602	false	2
+Boron		B	10.811		true	5
+Calcium		Ca	40.078		false	20
+Flourine	F	18.9984032	false	9
+Silicon		Si	28.0855		true	14
+Chlorine	Cl	35.453		false	17
+Neon		Ne	20.1797		false	10
+Mercury		Hg	200.59		false	80
+Iridium		Ir	192.217		false	77
+Antimony	Sb	121.76		true	51
+Rhenium		Re	186.207		false	75
+Barium		Ba	137.327		false	56
+Titanium	Ti	47.867		false	22			
